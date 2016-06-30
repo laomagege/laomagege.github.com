@@ -1,0 +1,3 @@
+baseurl: /mark-github-blog
+source: ..\mark-git-blog
+destination: _deploy

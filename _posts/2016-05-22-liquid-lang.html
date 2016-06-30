@@ -1,0 +1,11 @@
+---
+layout: default
+title: liquid-语言学习
+---
+
+<h2>{{ page.title }}</h2>
+
+<p>{%raw%} We made 1 million dollars {% comment %} in losses {% endcomment %} this year {%endraw%}</p>
+<p>We made 1 million dollars {% comment %} in losses {% endcomment %} this year</p>
+
+<p>{{ page.date | date_to_string }}</p>
