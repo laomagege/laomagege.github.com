@@ -1,3 +1,3 @@
-baseurl: /mark-github-blog
-source: ..\mark-git-blog
+baseurl: /
+source: ..\laomagege.github.com
 destination: _deploy
